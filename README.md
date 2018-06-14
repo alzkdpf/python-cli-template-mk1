@@ -1,2 +1,11 @@
-# python-cli-template-mk1
-python용 cli 시작 템플릿 입니다. 예제입니다. 
+#### python cli 샘플입니다. 
+
+* 실행 방법
+
+$ chmod +x ./install.sh
+$ ./install.sh
+
+* 테스트 
+
+$ mycli1 test
+
